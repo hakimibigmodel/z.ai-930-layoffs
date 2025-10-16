@@ -23,16 +23,16 @@ Relevant content has since been restricted on Red Book. This project will contin
 ### 裁员信息（已核实） Layoff Information (Verified)
 
 #### 2025年10月
-- **CodeGeeX 团队**（https://codegeex.cn/）部分正式员工被裁。
+- **CodeGeeX 团队**(https://codegeex.cn/) 部分正式员工被裁。
 
 #### 2025年09月
-- **商业化产研中心**解散，智能体 AICO（https://aiworker.aminer.cn）与 MaaS 产研正式员工裁员40%，外包员工全部解除。
-- **智谱清言团队**（https://chatglm.cn）算法研发正式员工裁员30%，外包员工全部解除。
+- **商业化产研中心**解散，智能体 AICO(https://aiworker.aminer.cn) 与 MaaS 产研正式员工裁员40%，外包员工全部解除。
+- **智谱清言团队**(https://chatglm.cn) 算法研发正式员工裁员30%，外包员工全部解除。
 - **商业化业务线及分公司**的销售与解决方案团队正式员工裁员10%–15%，内部转岗通道已冻结。
-- **智谱开放平台**（https://bigmodel.cn）产品研发正式员工裁员10%，外包员工全部解除。
+- **智谱开放平台**(https://bigmodel.cn) 产品研发正式员工裁员10%，外包员工全部解除。
 
 #### 2025年08月
-- **Aminer 学术平台**（https://www.aminer.cn）进行部门调整，部分员工被裁，部分员工内部转岗。
+- **Aminer 学术平台**(https://www.aminer.cn) 进行部门调整，部分员工被裁，部分员工内部转岗。
 
 #### October 2025  
 - **CodeGeeX Team** (https://codegeex.cn/): Partial layoffs of full-time employees.
