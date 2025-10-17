@@ -52,29 +52,28 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 
 ### 事件进展 Incident Timeline
 
-**第16天**：微信公众平台部分相关报道因投诉被删除。
+- **第16天**：微信公众平台部分相关报道因投诉被删除。
+- **第14天**：更新劳动仲裁进展，呼吁有相同遭遇的员工联合维权。
+- **第11天**：小红书平台相关内容因投诉被下架，裁员信息遭屏蔽。
+- **第10天**：智谱AI 官方回应称“个例”，同时发布47个招聘岗位。
+- **第9天**：媒体报道智谱AI “930裁员事件”，引发公众关注。
+- **第6天**：多名被违法解除劳动合同的员工准备发起联合劳动仲裁。
+- **第5天**：就违法解除涉及的劳动争议及股权纠纷咨询专业人士。
+- **第3天**：仲裁申请已提交至北京市人社局及全国人社平台12333。
+- **第2天**：公开多个部门员工的裁员补偿方案及股权激励回购安排。
+- **第1天**：小红书发布智谱AI “930裁员事件”，涉及多个业务部门。
 
-**第14天**：更新劳动仲裁进展，呼吁有相同遭遇的员工联合维权。
-**第11天**：小红书平台相关内容因投诉被下架，裁员信息遭屏蔽。
-**第10天**：智谱AI 官方回应称“个例”，同时发布47个招聘岗位。
-**第9天**：媒体报道智谱AI “930裁员事件”，引发公众关注。
-**第6天**：多名被违法解除劳动合同的员工准备发起联合劳动仲裁。
-**第5天**：就违法解除涉及的劳动争议及股权纠纷咨询专业人士。
-**第3天**：仲裁申请已提交至北京市人社局及全国人社平台12333。
-**第2天**：公开多个部门员工的裁员补偿方案及股权激励回购安排。
-**第1天**：小红书发布智谱AI “930裁员事件”，涉及多个业务部门。
 
-
-**Day 16**: Some related news reports on WeChat public platforms were removed following complaints.  
-**Day 14**: Labour arbitration progress updated; employees in similar situations called to unite.  
-**Day 11**: Red Book posts were taken down due to complaints; layoff information was restricted.  
-**Day 10**: Zhipu AI officially responded, describing the incident as "isolated cases," while announcing 47 new job openings.  
-**Day 9**: Media coverage of Zhipu AI's "930 Layoff Incident" drew public attention.  
-**Day 6**: Multiple unlawfully terminated employees prepared to initiate joint labour arbitration.  
-**Day 5**: Consulted professionals regarding labour disputes and equity issues related to unlawful termination.  
-**Day 3**: Arbitration applications submitted to the Beijing Human Resources and Social Security Bureau and the national 12333 platform.  
-**Day 2**: Compensation details for laid-off employees from multiple departments and equity incentive buyback plans disclosed.  
-**Day 1**: The "930 Layoff Incident" involving multiple departments was first exposed on Red Book.
+- **Day 16**: Some related news reports on WeChat public platforms were removed following complaints.  
+- **Day 14**: Labour arbitration progress updated; employees in similar situations called to unite.  
+- **Day 11**: Red Book posts were taken down due to complaints; layoff information was restricted.  
+- **Day 10**: Zhipu AI officially responded, describing the incident as "isolated cases," while announcing 47 new job openings.  
+- **Day 9**: Media coverage of Zhipu AI's "930 Layoff Incident" drew public attention.  
+- **Day 6**: Multiple unlawfully terminated employees prepared to initiate joint labour arbitration.  
+- **Day 5**: Consulted professionals regarding labour disputes and equity issues related to unlawful termination.  
+- **Day 3**: Arbitration applications submitted to the Beijing Human Resources and Social Security Bureau and the national 12333 platform.  
+- **Day 2**: Compensation details for laid-off employees from multiple departments and equity incentive buyback plans disclosed.  
+- **Day 1**: The "930 Layoff Incident" involving multiple departments was first exposed on Red Book.
 
 ---
 
