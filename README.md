@@ -1,7 +1,7 @@
-# 智谱AI 930 裁员事件 Z.ai-930-layoffs
 
 ![z ai-930-layoffs-gradient](https://github.com/user-attachments/assets/278f0fa1-3505-44bb-8a19-4f84a3e10437)
 
+# 智谱AI 930 裁员事件 Z.ai-930-layoffs
 
 ### 简介 Introduction  
 智谱AI（Z.ai）于2025年9月30日前实施多部门突发性裁员，部分员工遭遇单方面违法解除劳动合同。该事件经小红书等社交平台传播后引发公众关注。
@@ -82,17 +82,13 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 
 ### 媒体报道 Media Coverage
 
-独家｜AI 六小龙智谱上市冲刺期，多团队紧急裁员：https://c.m.163.com/news/a/KBEPEQF80556CUWO.html
+- 独家｜AI 六小龙智谱上市冲刺期，多团队紧急裁员：https://c.m.163.com/news/a/KBEPEQF80556CUWO.html
+- 智谱否认上市前夕裁员，47个岗位需求待招：https://www.jiemian.com/article/13446604.html
+- 一边冲上市一边裁员，智谱也有压力？：https://news.qq.com/rain/a/20251015A01U0500
 
-智谱否认上市前夕裁员，47个岗位需求待招：https://www.jiemian.com/article/13446604.html
-
-一边冲上市一边裁员，智谱也有压力？：https://news.qq.com/rain/a/20251015A01U0500
-
-Exclusive | Zhipu AI, one of China's "Six AI Dragons," conducts emergency layoffs across multiple teams during IPO: https://c.m.163.com/news/a/KBEPEQF80556CUWO.html
-
-Zhipu denies layoffs ahead of IPO, announces 47 open positions: https://www.jiemian.com/article/13446604.html
-
-Can Zhipu balance IPO preparations with layoffs? Growing pressures emerge: https://news.qq.com/rain/a/20251015A01U0500
+- Exclusive | Zhipu AI, one of China's "Six AI Dragons," conducts emergency layoffs across multiple teams during IPO: https://c.m.163.com/news/a/KBEPEQF80556CUWO.html
+- Zhipu denies layoffs ahead of IPO, announces 47 open positions: https://www.jiemian.com/article/13446604.html
+- Can Zhipu balance IPO preparations with layoffs? Growing pressures emerge: https://news.qq.com/rain/a/20251015A01U0500
 
 ---
 
