@@ -80,15 +80,55 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 
 ---
 
+### 高管异动 Executive Changes
+
+#### 2025年06月
+- **首席运营官（COO）** 张帆，离职
+
+#### 2025年05月
+- **首席财务官（CFO）** 彭建标，离职
+
+#### 2025年04月
+- **首席生态官** 刘江，离职
+
+#### 2025年01月
+- **应用AI与合作副总裁** 李惠子，离职
+
+#### 2024年12月
+- **首席战略官（CSO）** 张阔，离职
+- **副总裁** 曲腾，离职
+- **AI院负责人** 东昱晓，离职
+
+#### June 2025
+- Zhang Fan, Chief Operating Officer (COO) , Resigned
+
+#### May 2025
+- Peng Jianbiao, Chief Financial Officer (CFO) , Resigned
+
+#### April 2025
+- Liu Jiang, Chief Ecosystem Officer , Resigned
+
+#### January 2025
+- Li Huizi, Vice President of Applied AI and Partnerships , Resigned
+
+#### December 2024
+- Zhang Kuo, Chief Strategy Officer (CSO) , Resigned
+- Qu Teng, Vice President , Resigned
+- Dong Yuxiao, Head of AI Research , Resigned
+
+---
+
 ### 媒体报道 Media Coverage
 
 - 独家｜AI 六小龙智谱上市冲刺期，多团队紧急裁员：https://c.m.163.com/news/a/KBEPEQF80556CUWO.html
 - 智谱否认上市前夕裁员，47个岗位需求待招：https://www.jiemian.com/article/13446604.html
 - 一边冲上市一边裁员，智谱也有压力？：https://news.qq.com/rain/a/20251015A01U0500
+- 智谱AI解散60余人产研中心，知情人士讲述内部架构调整细节：https://news.qq.com/rain/a/20251017A04TN600
 
 - Exclusive | Zhipu AI, one of China's "Six AI Dragons," conducts emergency layoffs across multiple teams during IPO: https://c.m.163.com/news/a/KBEPEQF80556CUWO.html
 - Zhipu denies layoffs ahead of IPO, announces 47 open positions: https://www.jiemian.com/article/13446604.html
 - Can Zhipu balance IPO preparations with layoffs? Growing pressures emerge: https://news.qq.com/rain/a/20251015A01U0500
+- Zhipu AI Disbands R&D Center with Over 60 Employees, Insider Reveals Details of Internal Restructuring: https://news.qq.com/rain/a/20251017A04TN600
 
 ---
 
