@@ -13,9 +13,11 @@ Relevant content has since been restricted on Red Book. This project will contin
 
 ### 声明 Disclaimer  
 本项目仅收录与智谱AI（Z.ai）裁员事件相关、且经核实的信息，不涉及未经证实的推测或无关内容。
+
 本项目不代表对智谱AI GLM 模型及其研究团队的立场。GLM 对开源大模型领域的贡献应予充分肯定。
 
 This project only documents information related to Zhipu AI's layoffs that has been verified. It does not include speculation or unconfirmed content.  
+
 This project does not represent a stance on Zhipu AI's GLM model or its research team. The contributions of GLM to the open-source large model community are undeniable.
 
 ---
@@ -51,6 +53,7 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 ### 事件进展 Incident Timeline
 
 **第16天**：微信公众平台部分相关报道因投诉被删除。
+
 **第14天**：更新劳动仲裁进展，呼吁有相同遭遇的员工联合维权。
 **第11天**：小红书平台相关内容因投诉被下架，裁员信息遭屏蔽。
 **第10天**：智谱AI 官方回应称“个例”，同时发布47个招聘岗位。
