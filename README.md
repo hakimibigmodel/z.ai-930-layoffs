@@ -45,7 +45,7 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 #### September 2025  
 - **Commercial R&D Center**: Dissolved, with 40% of full-time employees in the AI Worker AICO (https://aiworker.aminer.cn/) and MaaS teams laid off, and all outsourced employees terminated.  
 - **ChatGLM Team** (https://chatglm.cn/): 30% of algorithm R&D full-time employees laid off, and all outsourced employees terminated.  
-- **Commercial Business Line and Branch Offices**: 10%–15% of sales and solutions full-time employees laid off, with internal transfers frozen.  
+- **Commercial Business Unit and Branch Offices**: 10%–15% of sales and solutions full-time employees laid off, with internal transfers frozen.  
 - **Zhipu Open Platform** (https://bigmodel.cn/): 10% of product R&D full-time employees laid off, and all outsourced employees terminated.
 
 #### August 2025  
