@@ -4,13 +4,17 @@
 # 智谱AI 930 裁员事件 Z.ai-930-layoffs
 
 ### 简介 Introduction  
-智谱AI（Z.ai）于2025年9月30日前实施多部门突发性裁员，部分员工遭遇单方面违法解除劳动合同。该事件经小红书等社交平台传播后引发公众关注。
+智谱AI（Z.ai）于2025年9月30日前实施多部门突发性裁员，部分员工遭遇单方面违法解除劳动合同。该事件经由小红书等社交平台传播后，引发公众广泛关注。
 
-目前，相关讨论内容已在小红书平台受到屏蔽。本项目将持续追踪事件进展并及时更新信息，敬请关注并协助传播，以便更多需要的人获取相关信息。
+数日后，智谱AI就媒体报道作出公开回应，与此同时，平台相关讨论内容已被屏蔽。
 
-Zhipu AI (Z.ai) implemented sudden layoffs across multiple departments prior to September 30, 2025, with some employees facing unilateral and unlawful termination of their contracts. The incident gained public attention after being shared on social media platforms such as Red Book.
+结合知情人士提供的线索，本项目将对裁员事件的真实情况与后续动态进行更新，敬请关注并协助传播，以便更多需要的人获取相关信息。
 
-Relevant content has since been restricted on Red Book. This project will continue to track developments and provide timely updates. Your attention and support in sharing this information with those who may need it are appreciated.
+Zhipu AI (Z.ai) implemented sudden layoffs across multiple departments by September 30, 2025, with some employees facing unilateral and unlawful termination of labor contracts. The incident gained widespread public attention after being disseminated on social media platforms such as Red Book. 
+
+Several days later, Zhipu AI issued a public response to media reports, while related discussions on the platform were subsequently removed.
+
+Based on information provided by informed sources, this project will continue to provide updates regarding the facts of the layoffs and subsequent developments. We appreciate your attention and encourage dissemination to ensure those in need remain informed.
 
 ---
 
@@ -32,9 +36,9 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 
 #### 2025年09月
 - **商业化产研中心**(约60人)解散，智能体 AICO(https://aiworker.aminer.cn) 与 MaaS 产研正式员工裁员40%，外包员工全部解除。
-- **智谱清言团队**(约90人，https://chatglm.cn) 算法研发正式员工裁员30%，外包员工全部解除。
+- **智谱清言团队**(约90人)(https://chatglm.cn) 算法研发正式员工裁员30%，外包员工全部解除。
 - **商业化业务线及分公司**的销售与解决方案团队正式员工裁员10%–15%，内部转岗通道已冻结。
-- **智谱开放平台**(约70人，https://bigmodel.cn) 产品研发正式员工裁员10%，外包员工全部解除。
+- **智谱开放平台**(约70人)(https://bigmodel.cn) 产品研发正式员工裁员10%，外包员工全部解除。
 
 #### 2025年08月
 - **Aminer 学术平台**(https://www.aminer.cn) 进行部门调整，部分员工被裁，部分员工内部转岗。
@@ -43,10 +47,10 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 - **CodeGeeX Team** (https://codegeex.cn/): Partial layoffs of full-time employees.
 
 #### September 2025  
-- **Commercial R&D Center**: Dissolved, with 40% of full-time employees in the AI Worker AICO (https://aiworker.aminer.cn/) and MaaS teams laid off, and all outsourced employees terminated.  
-- **ChatGLM Team** (https://chatglm.cn/): 30% of algorithm R&D full-time employees laid off, and all outsourced employees terminated.  
+- **Commercial R&D Center** (approx. 60 persons): Dissolved, with 40% of full-time employees in the AI Worker AICO (https://aiworker.aminer.cn/) and MaaS teams laid off, and all outsourced employees terminated.  
+- **ChatGLM Team** (approx. 90 persons)(https://chatglm.cn/): 30% of algorithm R&D full-time employees laid off, and all outsourced employees terminated.  
 - **Commercial Business Unit and Branch Offices**: 10%–15% of sales and solutions full-time employees laid off, with internal transfers frozen.  
-- **Zhipu Open Platform** (https://bigmodel.cn/): 10% of product R&D full-time employees laid off, and all outsourced employees terminated.
+- **Zhipu Open Platform** (approx. 70 persons)(https://bigmodel.cn/): 10% of product R&D full-time employees laid off, and all outsourced employees terminated.
 
 #### August 2025  
 - **Aminer Academic Platform** (https://www.aminer.cn/): Department restructuring resulted in partial layoffs and internal transfers of employees.
@@ -54,7 +58,8 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 ---
 
 ### 事件进展 Incident Timeline
-
+- **第18天**：智谱AI 官方回应此次为战略调整，涉及员工十余人。
+- **第17天**：离职员工称智谱AI 本次调整，陆续裁员涉及近百人。
 - **第16天**：微信公众平台部分相关报道因投诉被删除。
 - **第14天**：更新劳动仲裁进展，呼吁有相同遭遇的员工联合维权。
 - **第11天**：小红书平台相关内容因投诉被下架，裁员信息遭屏蔽。
@@ -66,7 +71,8 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 - **第2天**：公开多个部门员工的裁员补偿方案及股权激励回购安排。
 - **第1天**：小红书发布智谱AI “930裁员事件”，涉及多个业务部门。
 
-
+- **Day 18**: Zhipu AI officially responded that this was a strategic adjustment affecting over ten employees.
+- **Day 17**: Departing employees stated that the ongoing adjustment at Zhipu AI involved approximately 100 layoffs.
 - **Day 16**: Some related news reports on WeChat public platforms were removed following complaints.  
 - **Day 14**: Labour arbitration progress updated; employees in similar situations called to unite.  
 - **Day 11**: Red Book posts were taken down due to complaints; layoff information was restricted.  
@@ -124,11 +130,17 @@ This project does not represent a stance on Zhipu AI's GLM model or its research
 - 智谱否认上市前夕裁员，47个岗位需求待招：https://www.jiemian.com/article/13446604.html
 - 一边冲上市一边裁员，智谱也有压力？：https://news.qq.com/rain/a/20251015A01U0500
 - 智谱AI解散60余人产研中心，知情人士讲述内部架构调整细节：https://news.qq.com/rain/a/20251017A04TN600
+- 智谱裁员迷雾：内部人士确认有调整但不多，离职员工称涉近百人：https://tech.ifeng.com/c/8nY7xgxTyqy
+- 着急上市的智谱和六小龙，得证明自己能赚钱：https://36kr.com/p/3513092402011013
+- 智谱AI辟谣部门解散，称公司组织调整涉及十余人：https://www.jiemian.com/article/13480200.html
 
 - Exclusive | Zhipu AI, one of China's "Six AI Dragons," conducts emergency layoffs across multiple teams during IPO: https://c.m.163.com/news/a/KBEPEQF80556CUWO.html
 - Zhipu denies layoffs ahead of IPO, announces 47 open positions: https://www.jiemian.com/article/13446604.html
 - Can Zhipu balance IPO preparations with layoffs? Growing pressures emerge: https://news.qq.com/rain/a/20251015A01U0500
 - Zhipu AI Disbands R&D Center with Over 60 Employees, Insider Reveals Details of Internal Restructuring: https://news.qq.com/rain/a/20251017A04TN600
+- Zhipu AI Layoff Ambiguity: Insiders Confirm Adjustments Were Limited, While Departing Employees Claim Nearly 100 Affected: https://tech.ifeng.com/c/8nY7xgxTyqy
+- Zhipu AI and the "Six Dragons" Rush to IPO, Needing to Prove Profitability: https://36kr.com/p/3513092402011013
+- Zhipu AI Denies Rumors of Department Shutdown, Stating Organizational Changes Affect 10+ Employees: https://www.jiemian.com/article/13480200.html
 
 ---
 
